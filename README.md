@@ -10,9 +10,9 @@ A two-portal web app (author and admin) where authors raise support tickets and 
 
 | Role | Email | Password |
 |---|---|---|
-| Admin | admin@bookleaf.com | `<ADMIN_PASSWORD>` |
-| Author | priya.sharma@email.com | `<AUTHOR_PASSWORD>` |
-| Author | rohit.kapoor@email.com | `<AUTHOR_PASSWORD>` |
+| Admin | admin@bookleaf.com | `BookLeaf-Admin-2026! ` |
+| Author | priya.sharma@email.com | `BookLeaf-Author-2026!` |
+| Author | rohit.kapoor@email.com | `BookLeaf-Author-2026!` |
 
 All 10 seeded authors (see `server/seed/data/FULLSTACK-SAMPLEDATA.json`) share the author password.
 
