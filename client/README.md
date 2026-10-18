@@ -51,8 +51,8 @@ Make sure the backend server (`/server`) is running on port 5000 and seeded with
 
 - **Admin Account**:
   - Email: `admin@bookleaf.com`
-  - Password: `Admin@123` *(noted as `ADMIN_PASSWORD` in `server/.env`)*
+  - Password: `BookLeaf-Admin-2026!` *(noted as `ADMIN_PASSWORD` in `server/.env`)*
 
 - **Author Account**:
   - Email: `priya.sharma@email.com`
-  - Password: `Author@123` *(noted as `SEED_AUTHOR_PASSWORD` in `server/.env`)*
+  - Password: `BookLeaf-Author-2026!` *(noted as `SEED_AUTHOR_PASSWORD` in `server/.env`)*
