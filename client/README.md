@@ -47,12 +47,4 @@ Frontend client for the BookLeaf Author Support Portal built with Vite, React, R
 
 ## Demo Logins
 
-Make sure the backend server (`/server`) is running on port 5000 and seeded with the database. Passwords correspond to those configured in `server/.env`:
-
-- **Admin Account**:
-  - Email: `admin@bookleaf.com`
-  - Password: `Admin@123` *(noted as `ADMIN_PASSWORD` in `server/.env`)*
-
-- **Author Account**:
-  - Email: `priya.sharma@email.com`
-  - Password: `Author@123` *(noted as `SEED_AUTHOR_PASSWORD` in `server/.env`)*
+See the root README.md for demo logins.

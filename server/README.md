@@ -163,6 +163,14 @@ The seed script:
 - Creates one admin account using `ADMIN_EMAIL`, `ADMIN_PASSWORD`, `ADMIN_NAME`.
 - Prints all created email addresses at the end. Passwords are never printed.
 
+See the root README.md for demo logins.
+
+---
+
+## Demo logins
+
+See the root README.md for demo logins.
+
 ---
 
 ## Project structure
